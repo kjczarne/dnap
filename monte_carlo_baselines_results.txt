@@ -1,0 +1,22 @@
+Monte Carlo Runs for Nucleotide Transformer:
+
+Seed 50:
+("Metrics averaged over batches: {'accuracy_score': 0.9140202702702702, "
+ "'precision_score': 0.9204629228301532, 'recall_score': 0.9081278963674002}")
+Seed 73:
+("Metrics averaged over batches: {'accuracy_score': 0.9109797297297297, "
+ "'precision_score': 0.9133445170612462, 'recall_score': 0.9101584816064393}")
+Seed 7:
+("Metrics averaged over batches: {'accuracy_score': 0.9119932432432432, "
+ "'precision_score': 0.9211313731447485, 'recall_score': 0.9031749725928688}")
+
+DNABERT:
+Seed 50:
+("Metrics averaged over batches: {'accuracy_score': 0.5033783783783784, "
+ "'precision_score': 0.5033783783783784, 'recall_score': 1.0}")
+Seed 73:
+("Metrics averaged over batches: {'accuracy_score': 0.5033783783783784, "
+ "'precision_score': 0.5033783783783784, 'recall_score': 1.0}")
+Seed 7:
+("Metrics averaged over batches: {'accuracy_score': 0.5033783783783784, "
+ "'precision_score': 0.5033783783783784, 'recall_score': 1.0}")
