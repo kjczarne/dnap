@@ -1,0 +1,2 @@
+DNABERT: ("Metrics averaged over batches: {'accuracy_score': 0.5033783783783784, "
+ "'precision_score': 0.5033783783783784, 'recall_score': 1.0}")
