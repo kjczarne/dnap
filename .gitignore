@@ -5,3 +5,5 @@ dnabert*
 nucleotide_transformer*
 promoter_detection
 results
+model.bin
+model2.bin

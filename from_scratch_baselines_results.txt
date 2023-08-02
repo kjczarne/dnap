@@ -1,3 +1,6 @@
-DNABERT: ("Metrics averaged over batches: {'accuracy_score': 0.49662162162162166, "
+DNABERT:
+        ("Metrics averaged over batches: {'accuracy_score': 0.49662162162162166, "
         "'precision_score': 0.0, 'recall_score': 0.0}")
 Nucleotide Transformer: 
+        ("Metrics averaged over batches: {'accuracy_score': 0.5033783783783784, "
+        "'precision_score': 0.5033783783783784, 'recall_score': 1.0}")
